@@ -58,15 +58,6 @@ multiclass_model.pkl → Pretrained classifier
 
 scaler.pkl → Normalization scaler for consistent preprocessing
 
-📁 Project Structure
-HealthGenomics-CVID-Diagnostic-main/
-│
-├── app.py                           # Flask server for prediction
-├── front.html                       # UI for entering gene expression data
-├── PID_gene_expressions_augmented.csv   # Gene expression dataset
-├── multiclass_model.pkl             # Pretrained ML model
-├── scaler.pkl                       # Feature scaling model
-└── README.md                        # Documentation
 
 🛠️ Tech Stack
 Backend
